@@ -1,0 +1,18 @@
+{
+    "uuid": "f92e9545-ef20-40e7-8284-240bcfcb067e",
+    "title": "Extract Elements Greater Than Pivot",
+    "topic": "Autograder",
+    "tags": [
+        "code",
+        "c++"
+    ],
+    "type": "v3",
+    "singleVariant": true,
+    "gradingMethod": "External",
+    "externalGradingOptions": {
+        "enabled": true,
+        "image": "orlqndo/gtest-grader",
+        "timeout": 600,
+        "entrypoint": "/config/initGrade.sh"
+    }
+}

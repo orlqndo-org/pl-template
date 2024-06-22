@@ -1,0 +1,25 @@
+{
+    "uuid": "13D012E5-9C66-4092-BA1A-0445919CB0C3",
+    "type": "Homework",
+    "title": "C++ functions",
+    "set": "Homework",
+    "number": "1",
+    "allowAccess": [
+        {
+        "mode": "Public",
+	    "credit": 100,
+	    "startDate": "2024-04-04T00:00:01",
+	    "endDate": "2025-02-06T23:59:59"
+        }
+    ],
+    "zones": [
+        {
+            "title": "Basic functions",
+            "questions": [
+                {"id": "countGreaterThan","points": 1},
+                {"id": "extractGreaterThan","points": 1},
+                {"id": "int2bin","points": 2}
+            ]
+        }
+    ]
+}

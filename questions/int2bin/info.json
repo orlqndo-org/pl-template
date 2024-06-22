@@ -1,0 +1,18 @@
+{
+    "uuid": "0011836b-a815-4242-9314-7361a913b385",
+    "title": "Binary Conversion",
+    "topic": "Autograder",
+    "tags": [
+        "code",
+        "c++"
+    ],
+    "type": "v3",
+    "singleVariant": true,
+    "gradingMethod": "External",
+    "externalGradingOptions": {
+        "enabled": true,
+        "image": "orlqndo/gtest-grader",
+        "timeout": 600,
+        "entrypoint": "/config/initGrade.sh"
+    }
+}

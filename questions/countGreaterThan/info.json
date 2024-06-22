@@ -1,0 +1,18 @@
+{
+    "uuid": "149f9b40-2b1d-40f2-88a2-932802c5269c",
+    "title": "Count Elements Greater Than Pivot",
+    "topic": "Autograder",
+    "tags": [
+        "code",
+        "c++"
+    ],
+    "type": "v3",
+    "singleVariant": true,
+    "gradingMethod": "External",
+    "externalGradingOptions": {
+        "enabled": true,
+        "image": "orlqndo/gtest-grader",
+        "timeout": 600,
+        "entrypoint": "/config/initGrade.sh"
+    }
+}
